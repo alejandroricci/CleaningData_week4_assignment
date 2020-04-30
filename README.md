@@ -24,8 +24,8 @@ to use.
     test_labels_file <- sprintf("%s/test/y_test.txt", data_folder)
     test_subjects_file <- sprintf("%s/test/subject_test.txt", data_folder)
 
-    output_file <- sprintf("%s/activity_tidy_data.csv", data_folder)
-    output_per_activity_and_subject_file <- sprintf("%s/activity_tidy_data_per_activity_and_subject.csv", data_folder)
+    output_file <- sprintf("%s/activity_tidy_data.txt", data_folder)
+    output_per_activity_and_subject_file <- sprintf("%s/activity_tidy_data_per_activity_and_subject.txt", data_folder)
 
 Read data
 ---------
